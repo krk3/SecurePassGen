@@ -8,7 +8,7 @@
 
 ## 📂 Repositorio Oficial
 
-[Visitar Repositorio en GitHub](https://github.com/tuUsuario/securepassgen)
+[Visitar Repositorio en GitHub](https://github.com/krk3/SecurePassGen?tab=readme-ov-file)
 
 ## Características principales
 - Generación de contraseñas seguras y únicas en segundos.
