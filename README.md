@@ -2,7 +2,6 @@
 **Pablo Medina González**
 
 ![Generador de Contraseñas]![Captura de pantalla 2024-11-23 182400](https://github.com/user-attachments/assets/7cd72792-23d4-4523-b7ac-3fb86538e30a)
-() <!-- Reemplaza con la URL o ruta de tu imagen -->
 
 🔐 **SecurePassGen** es un generador de contraseñas seguras y personalizables desarrollado en Python, diseñado para maximizar la seguridad y la simplicidad en su uso. Este script permite generar contraseñas de longitud variable, con opciones para incluir caracteres especiales, números, y letras mayúsculas o minúsculas.
 
@@ -25,7 +24,7 @@
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tuUsuario/securepassgen.git
+    git clone https://github.com/krk3/SecurePassGen.git
     cd securepassgen
     ```
 
