@@ -1,7 +1,7 @@
 # SecurePassGen: A Customizable Password Generator
 **Pablo Medina González**
 
-![Generador de Contraseñas]![Captura de pantalla 2024-11-23 182400](https://github.com/user-attachments/assets/7cd72792-23d4-4523-b7ac-3fb86538e30a)
+[Generador de Contraseñas]![Captura de pantalla 2024-11-23 182400](https://github.com/user-attachments/assets/7cd72792-23d4-4523-b7ac-3fb86538e30a)
 
 🔐 **SecurePassGen** es un generador de contraseñas seguras y personalizables desarrollado en Python, diseñado para maximizar la seguridad y la simplicidad en su uso. Este script permite generar contraseñas de longitud variable, con opciones para incluir caracteres especiales, números, y letras mayúsculas o minúsculas.
 
